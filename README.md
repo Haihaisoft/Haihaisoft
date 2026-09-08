@@ -1,4 +1,4 @@
-# Haihaisoft
+# [Haihaisoft](https://www.haihaisoft.com)
 
 **Enterprise Digital Rights Management (DRM) technologies for secure video, PDF, eLearning, and LMS content protection.**
 
@@ -6,7 +6,7 @@ Haihaisoft develops **DRM-X 5.0**, **ZJGet Secure Browser**, and **DRM-X Multi-D
 
 ---
 
-# DRM-X 5.0
+# [DRM-X 5.0](https://www.drm-x.com/en/products/drm-x-5.0/features)
 
 DRM-X 5.0 is an enterprise DRM platform designed to protect digital content on Windows, macOS, iOS, Android, and HTML5 browsers.
 
@@ -40,7 +40,7 @@ Official DRM-X 5.0 plugins for popular Learning Management Systems.
 
 ---
 
-# Multi-DRM
+# [Multi-DRM](https://multi-drm.drm-x.com/)
 
 DRM-X Multi-DRM is a next-generation DRM platform designed for premium video streaming and cross-platform playback.
 
