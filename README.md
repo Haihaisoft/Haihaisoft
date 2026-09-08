@@ -32,11 +32,11 @@ Official DRM-X 5.0 plugins for popular Learning Management Systems.
 | Platform | Repository |
 |----------|------------|
 | Moodle | https://github.com/Haihaisoft/drm-x5-moodle-plugin |
-| LearnPress | https://github.com/Haihaisoft/drm-x5-learnpress-plugin |
-| LearnDash | https://github.com/Haihaisoft/drm-x5-learndash-plugin |
-| Tutor LMS | https://github.com/Haihaisoft/drm-x5-tutor-lms-plugin |
-| Sensei LMS | https://github.com/Haihaisoft/drm-x5-sensei-lms-plugin |
-| MasterStudy LMS | https://github.com/Haihaisoft/drm-x5-masterstudy-lms-plugin |
+| WordPress + LearnPress | https://github.com/Haihaisoft/drm-x5-learnpress-plugin |
+| WordPress + LearnDash | https://github.com/Haihaisoft/drm-x5-learndash-plugin |
+| WordPress + Tutor LMS | https://github.com/Haihaisoft/drm-x5-tutor-lms-plugin |
+| WordPress + Sensei LMS | https://github.com/Haihaisoft/drm-x5-sensei-lms-plugin |
+| WordPress + MasterStudy LMS | https://github.com/Haihaisoft/drm-x5-masterstudy-lms-plugin |
 
 ---
 
