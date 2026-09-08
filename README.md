@@ -1,53 +1,105 @@
 # Haihaisoft
 
-**Digital Rights Management (DRM) technologies for secure video, PDF, eLearning, and LMS content protection.**
+**Enterprise Digital Rights Management (DRM) technologies for secure video, PDF, eLearning, and LMS content protection.**
 
-Haihaisoft develops DRM-X, ZJGet, and Multi-DRM technologies for secure digital content distribution, license management, watermarking, screen recording prevention, and cross-platform playback.
+Haihaisoft develops **DRM-X 5.0**, **ZJGet Secure Browser**, and **DRM-X Multi-DRM** technologies for secure digital content distribution, encrypted media playback, license management, dynamic watermarking, screen recording prevention, and cross-platform DRM protection.
 
-## DRM-X 5.0
+---
 
-DRM-X 5.0 provides secure content protection for:
+# DRM-X 5.0
 
-- Video
-- Audio
-- PDF
-- Online courses
-- LMS platforms
-- Enterprise training
-- eLearning systems
+DRM-X 5.0 is an enterprise DRM platform designed to protect digital content on Windows, macOS, iOS, Android, and HTML5 browsers.
 
-### LMS Integrations
+### Key Features
 
-- [Moodle](https://github.com/Haihaisoft/drm-x5-moodle-plugin)
-- [LearnPress](https://github.com/Haihaisoft/drm-x5-learnpress-plugin)
-- [LearnDash](https://github.com/Haihaisoft/drm-x5-learndash-plugin)
-- [Tutor LMS](https://github.com/Haihaisoft/drm-x5-tutor-lms-plugin)
-- [Sensei LMS](https://github.com/Haihaisoft/drm-x5-sensei-lms-plugin)
-- [MasterStudy LMS](https://github.com/Haihaisoft/drm-x5-masterstudy-lms-plugin)
+- 🔐 AES-256 video encryption
+- 🎥 HTML5 video DRM protection
+- 💧 Dynamic watermarking
+- 🛡 Smart screen recording prevention
+- 📺 Wireless display & extended screen protection
+- 👤 Enrollment-based license delivery
+- 🌐 Cloud-based DRM licensing
+- 📱 Windows, macOS, iOS & Android support
+- 🎓 Moodle & WordPress LMS integration
+- 🔌 REST APIs and SDKs for custom integrations
 
-## Developer Resources
+---
 
-- [DRM-X Documentation](https://github.com/Haihaisoft/drm-x-docs)
-- API examples
-- SDK integrations
-- Video.js integration
-- LMS plugins
+# LMS Integrations
+
+Official DRM-X 5.0 plugins for popular Learning Management Systems.
+
+| Platform | Repository |
+|----------|------------|
+| Moodle | https://github.com/Haihaisoft/drm-x5-moodle-plugin |
+| LearnPress | https://github.com/Haihaisoft/drm-x5-learnpress-plugin |
+| LearnDash | https://github.com/Haihaisoft/drm-x5-learndash-plugin |
+| Tutor LMS | https://github.com/Haihaisoft/drm-x5-tutor-lms-plugin |
+| Sensei LMS | https://github.com/Haihaisoft/drm-x5-sensei-lms-plugin |
+| MasterStudy LMS | https://github.com/Haihaisoft/drm-x5-masterstudy-lms-plugin |
+
+---
+
+# Multi-DRM
+
+DRM-X Multi-DRM is a next-generation DRM platform designed for premium video streaming and cross-platform playback.
+
+Supported DRM technologies:
+
+- Google Widevine
+- Microsoft PlayReady
+- Apple FairPlay Streaming
+- Huawei WisePlay
+
+---
+
+# Developer Resources
+
+Developer tools and documentation:
+
+- DRM APIs
+- SDKs
+- HTML5 Video.js integration
+- Moodle plugins
+- WordPress plugins
+- License APIs
 - Multi-DRM examples
 
-## Multi-DRM
+Repository:
 
-DRM-X Multi-DRM is designed for cross-platform content protection using leading DRM technologies.
+https://github.com/Haihaisoft/drm-x-docs
 
-Supported technologies include:
+---
 
-- Widevine
-- PlayReady
-- FairPlay
-- WisePlay
+## Why DRM-X?
 
-## Official Websites
+DRM-X provides enterprise-grade DRM technologies for:
 
-- [DRM-X](https://www.drm-x.com/)
-- [Haihaisoft](https://www.haihaisoft.com/)
-- [Multi-DRM](https://multi-drm.drm-x.com/)
-- [ZJGet](https://www.zjget.com/)
+- Online education
+- Employee training
+- Video-on-demand
+- Live streaming
+- Digital publishing
+- Corporate documents
+- Premium content distribution
+
+Compared with traditional video protection solutions, DRM-X provides:
+
+- Dynamic watermarking
+- Screen recording prevention
+- Multi-platform playback
+- License management
+- LMS integration
+- Multi-DRM support
+
+---
+
+# Official Websites
+
+🌐 https://www.drm-x.com
+
+🌐 https://multi-drm.drm-x.com
+
+🌐 https://www.zjget.com
+
+🌐 https://www.haihaisoft.com
