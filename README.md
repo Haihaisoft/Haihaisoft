@@ -37,6 +37,9 @@ Official DRM-X 5.0 plugins for popular Learning Management Systems.
 | WordPress + Tutor LMS | https://github.com/Haihaisoft/drm-x5-tutor-lms-plugin |
 | WordPress + Sensei LMS | https://github.com/Haihaisoft/drm-x5-sensei-lms-plugin |
 | WordPress + MasterStudy LMS | https://github.com/Haihaisoft/drm-x5-masterstudy-lms-plugin |
+| Java + Vue | https://github.com/Haihaisoft/drm-x5-java-vue-integration-example |
+| Python + Django | https://github.com/Haihaisoft/drm-x5-python-django-integration-example |
+
 
 ---
 
