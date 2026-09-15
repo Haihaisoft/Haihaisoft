@@ -62,7 +62,7 @@ Official DRM-X 5.0 plugins for popular Learning Management Systems.
 Developer tools and documentation:
 
 - DRM APIs
-- [DRM-X 5.0 Encryption SDKs](https://github.com/Haihaisoft/drm-x5-encryption-sdk)
+- [DRM-X 5.0 Encryption SDK](https://github.com/Haihaisoft/drm-x5-encryption-sdk)
 - HTML5 Video.js integration
 - [Moodle plugins](https://github.com/Haihaisoft/drm-x5-moodle-plugin)
 - [WordPress plugins](https://github.com/Haihaisoft/drm-x-docs/blob/main/wordpress/README.md)
