@@ -2,7 +2,20 @@
 
 **Enterprise Digital Rights Management (DRM) technologies for secure video, PDF, eLearning, and LMS content protection.**
 
-Haihaisoft develops **DRM-X 5.0**, **ZJGet Secure Browser**, and **DRM-X Multi-DRM** technologies for secure digital content distribution, encrypted media playback, license management, dynamic watermarking, screen recording prevention, and cross-platform DRM protection.
+Haihaisoft develops **DRM-X 5.0**, **ZJGet Secure Browser**, and **DRM-X 6.0 Multi-DRM** technologies for secure digital content distribution, encrypted media playback, license management, dynamic watermarking, screen recording prevention, and cross-platform DRM protection.
+
+---
+
+# [DRM-X 6.0 Multi-DRM](https://multi-drm.drm-x.com/)
+
+DRM-X Multi-DRM is a next-generation DRM platform designed for premium video streaming and cross-platform playback.
+
+Supported DRM technologies:
+
+- [Google Widevine](https://multi-drm.drm-x.com/solutions/widevine-drm)
+- [Microsoft PlayReady](https://multi-drm.drm-x.com/solutions/playready-drm)
+- [Apple FairPlay Streaming](https://multi-drm.drm-x.com/solutions/fairplay-drm)
+- [Huawei WisePlay](https://multi-drm.drm-x.com/solutions/wiseplay-drm)
 
 ---
 
@@ -39,21 +52,8 @@ Official DRM-X 5.0 plugins for popular Learning Management Systems.
 | WordPress + MasterStudy LMS | https://github.com/Haihaisoft/drm-x5-masterstudy-lms-plugin |
 | Java + Vue | https://github.com/Haihaisoft/drm-x5-java-vue-integration-example |
 | Python + Django | https://github.com/Haihaisoft/drm-x5-python-django-integration-example |
-| Node.js + express | https://github.com/Haihaisoft/drm-x5-nodejs-express-integration-example |
+| Node.js + Express | https://github.com/Haihaisoft/drm-x5-nodejs-express-integration-example |
 
-
----
-
-# [Multi-DRM](https://multi-drm.drm-x.com/)
-
-DRM-X Multi-DRM is a next-generation DRM platform designed for premium video streaming and cross-platform playback.
-
-Supported DRM technologies:
-
-- Google Widevine
-- Microsoft PlayReady
-- Apple FairPlay Streaming
-- Huawei WisePlay
 
 ---
 
@@ -67,7 +67,7 @@ Developer tools and documentation:
 - [Moodle plugins](https://github.com/Haihaisoft/drm-x5-moodle-plugin)
 - [WordPress plugins](https://github.com/Haihaisoft/drm-x-docs/blob/main/wordpress/README.md)
 - License APIs
-- Multi-DRM examples
+- [Multi-DRM Docs](https://docs.drm-x.com/)
 
 Repository:
 
