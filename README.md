@@ -39,6 +39,7 @@ Official DRM-X 5.0 plugins for popular Learning Management Systems.
 | WordPress + MasterStudy LMS | https://github.com/Haihaisoft/drm-x5-masterstudy-lms-plugin |
 | Java + Vue | https://github.com/Haihaisoft/drm-x5-java-vue-integration-example |
 | Python + Django | https://github.com/Haihaisoft/drm-x5-python-django-integration-example |
+| Node.js + express | https://github.com/Haihaisoft/drm-x5-nodejs-express-integration-example |
 
 
 ---
@@ -61,10 +62,10 @@ Supported DRM technologies:
 Developer tools and documentation:
 
 - DRM APIs
-- SDKs
+- [DRM-X 5.0 Encryption SDKs](https://github.com/Haihaisoft/drm-x5-encryption-sdk)
 - HTML5 Video.js integration
-- Moodle plugins
-- WordPress plugins
+- [Moodle plugins](https://github.com/Haihaisoft/drm-x5-moodle-plugin)
+- [WordPress plugins](https://github.com/Haihaisoft/drm-x-docs/blob/main/wordpress/README.md)
 - License APIs
 - Multi-DRM examples
 
